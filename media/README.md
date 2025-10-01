@@ -941,6 +941,16 @@ Once complete, visit each domain in your browser to verify and, if necessary, up
   * **Anime Quality Profile**: `HD - 720p/1080p`
   * **Anime Root Folder**: `/data/media/shows`
   * **Season Folders**: `enabled`
+* General Settings
+  * **Discover Region**: `All Regions`
+  * **Discover Language**: `All Languages`
+  * **Streaming Region**: `United States`
+  * **Blacklist Content with Tags**: `softcore, porn, porno, eroticism, virginity, sex, sexy, lesbian, lgbt, erotica, vixen`
+  * **Limit Content Blacklisted per Tag**: `50`
+  * **Hide Available Media**: `disabled`
+  * **Hide Blacklisted Items**: `enabled`
+  * **Allow Partial Series Requests**: `enabled`
+  * **Allow Special Episodes Requests**: `disabled`
 
 ## Configure Emby
 
