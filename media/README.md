@@ -30,6 +30,16 @@ Oh, and did we mention? This whole setup is containerized with **Podman**. That 
 | [GlueTun](https://github.com/qdm12/gluetun-wiki) | VPN client using ProtonVPN         |
 | [Emby](https://emby.media)                       | Media server                       |
 
+## Create Virtual Machine
+
+![General](images/image-001.png)
+![OS](images/image-002.png)
+![System](images/image-003.png)
+![Disks](images/image-004.png)
+![CPU](images/image-005.png)
+![Memory](images/image-006.png)
+![Network](images/image-007.png)
+
 ## Setup Virtual Machine
 
 ### 1. Update System Packages
