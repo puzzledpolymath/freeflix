@@ -64,6 +64,13 @@ Ensure user services run after logout or at boot.
 sudo loginctl enable-linger <username>
 ```
 
+Enabled SSH access
+
+```shell
+sudo firewall-cmd --permanent --add-service=ssh
+sudo firewall-cmd --reload
+```
+
 Reboot the machine ensuring lingering changes take effect.
 
 ```shell
